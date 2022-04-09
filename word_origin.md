@@ -1,6 +1,6 @@
-collins上每个单词，都有一个Word origin部分，应该是对词源的一些解释。
+collins上每个单词，都有一个Word origin部分，应该是对词源的一些解释。比如：C16: from French ramifier, from Latin rāmus branch + facere to make。
+其中有一些缩写，我了解了一下，做个记录：
 
-C16: from French ramifier, from Latin rāmus branch + facere to make
 #### C16
 16世纪
 
@@ -37,3 +37,6 @@ Late Middle English(from about 1400 to about 1500).
 
 #### 拉丁语
 拉丁语通常被认为是一种死语言，因为绝少的人会用。
+
+#### 相关连接
+https://www.zhihu.com/question/376261041
