@@ -1,6 +1,5 @@
 ```
 Your predecessor is the person who had your job before you.
-*He maintained that he learned everything he knew from his predecessor. *
 ```
 *He maintained that he learned everything he knew from his predecessor.*
 
