@@ -1,0 +1,10 @@
+```
+clear
+dear
+lear
+linear
+near
+nuclear
+rear
+sear
+```
