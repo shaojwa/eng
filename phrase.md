@@ -1,3 +1,6 @@
+#### start with a clean slate
+They decided to leave the past behind them and start with a clean slate.
+
 #### none of
 If make finds none of these names, it does not use any makefile.
 
