@@ -1,5 +1,5 @@
 #### none of
-IIf make finds none of these names, it does not use any makefile.
+If make finds none of these names, it does not use any makefile.
 
 #### at length
 Rules, variables, and directives are described at length in later chapters.
@@ -17,6 +17,4 @@ Whether this is better is a matter of taste.
 This is how we would write the makefile in actual practice.
 
 #### beside
-```
-Makefiles commonly tell how to do a few other things besides compiling a program
-```
+Makefiles commonly tell how to do a few other things besides compiling a program.
