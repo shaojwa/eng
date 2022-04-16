@@ -18,3 +18,14 @@ This is how we would write the makefile in actual practice.
 
 #### beside
 Makefiles commonly tell how to do a few other things besides compiling a program.
+
+#### In order to
+#### To that end/To this end
+#### In other words
+#### To put it another way
+#### That is to say
+#### Another key thing to remember
+#### Not to mention
+#### With this in mind
+#### In view of
+#### In light of
